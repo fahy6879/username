@@ -14,7 +14,7 @@ The requirements for a username are:
 
 Copy the zip.sh file to a fine names username.sh
 Edit the username.sh file so that it:
-* Displays thge rules to the user
+* Displays the rules to the user
 * Prompts to user to type a username
 * Checks to see if the string typed by the user obeys the rules.
 * Prompts the user to try again ifit does not.
